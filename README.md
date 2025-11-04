@@ -1,2 +1,1 @@
-# XS
-don't forget about me，不要忘记我。
+don't forget about me，不要忘记我
